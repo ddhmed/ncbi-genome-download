@@ -1,3 +1,5 @@
+DFW : https://academic.oup.com/nar/article/49/D1/D639/5957162
+
 # NCBI Genome Downloading Scripts
 
 [![Build Status](https://github.drone.secondarymetabolites.org/api/badges/kblin/ncbi-genome-download/status.svg)](https://github.drone.secondarymetabolites.org/kblin/ncbi-genome-download)
